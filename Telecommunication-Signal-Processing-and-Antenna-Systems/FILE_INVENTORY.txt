@@ -1,0 +1,10 @@
+Included uploaded files:
+
+- assignments/Assignment_1_FFT_and_Window_Functions.pdf
+- assignments/Assignment_2_Curve_Fitting_and_Residual_Analysis.pdf
+- assignments/Assignment_3_Periodogram_and_PSD_Estimation.pdf
+- assignments/Assignment_4_QAM_CI_NCI_and_SNR_Analysis.pdf
+- assignments/Assignment_5_Antenna_Systems_and_Array_Fundamentals.pdf
+- assignments/Assignment_6_Antenna_Array_Radiation_Patterns.pdf
+- assignments/Assignment_7_AOA_Estimation_and_IQ_Simulation.pdf
+- assignments/Final_Project_Radar_Signal_Processing_and_Interferometry.pdf
